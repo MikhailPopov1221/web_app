@@ -40,6 +40,12 @@ def init_database():
             phone_number="89997775633", 
             product_id=2, 
             count=6
+        ),
+        Order(
+            customer_name="Вениамин",
+            phone_number="8977785633", 
+            product_id=4, 
+            count=66
         )
     ]
     
